@@ -5,3 +5,4 @@ Samples tried out on Deep Learning
  - CNN
  - RNN
  - GAN
+ - Transformers
